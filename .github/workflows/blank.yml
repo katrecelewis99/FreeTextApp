@@ -17,7 +17,7 @@ jobs:
         env:
           B2_BUCKET_ID: ffde385a97b0ca039e5c0814
           B2_APPLICATION_KEY_ID: fe8a70a3ec84
-          B2_APPLICATION_KEY: daddfdf
+          B2_APPLICATION_KEY: 0058edd76d9d4044ff76e98bbea8630fc89ea7833f
 
       - name: Deploy to Backblaze B2
         run: |
